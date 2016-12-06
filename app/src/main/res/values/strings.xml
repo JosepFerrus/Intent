@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="Benvingut">Benvingut</string>
+    <string name="login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ok">Ok</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="telefono">Telefono</string>
+
+</resources>
